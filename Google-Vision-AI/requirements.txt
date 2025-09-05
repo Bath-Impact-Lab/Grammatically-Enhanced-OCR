@@ -1,0 +1,5 @@
+opencv-python
+imutils
+matplotlib
+pandas
+python-dotenv
