@@ -8,7 +8,7 @@ Provides core functionality to web frontend. Based on enhancements of the open s
 
 Additional features beyond standard Papermerge are:
 * LLM integration for post OCR text correction
-* Firebase Authentication
+* Google Vision OCR support
 * Interactive Correction
 * Custom Word Library
 
