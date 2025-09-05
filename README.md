@@ -1,5 +1,7 @@
 [![Tests](https://github.com/papermerge/papermerge-core/actions/workflows/tests.yml/badge.svg)](https://github.com/papermerge/papermerge-core/actions/workflows/tests.yml)
 
+![GE-OCR banner](documentation/github_banner.png)
+
 # Grammatically-Enhanced-OCR API (GE-OCR)
 
 Provides core functionality to web frontend. Based on enhancements of the open source Papermerge REST API Server version 2.1.
